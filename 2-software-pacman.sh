@@ -67,6 +67,7 @@ PKGS=(
     'freerdp'               # RDP Connections
     'libvncserver'          # VNC Connections
     'pcmanfm'              # Filesystem browser
+    'ranger'			#CLI file manager
     'remmina'               # Remote Connection
     'veracrypt'             # Disc encryption utility
 
@@ -80,7 +81,6 @@ PKGS=(
     'git'                   # Version control system
     'gcc'                   # C/C++ compiler
     'glibc'                 # C libraries
-    'meld'                  # File/directory comparison
     'nodejs'                # Javascript runtime environment
     'npm'                   # Node package manager
     'python'                # Scripting language
@@ -91,9 +91,11 @@ PKGS=(
     'celluloid'             # Video player
     
     # GRAPHICS AND DESIGN -------------------------------------------------
-
+    
+    'sxiv'                  #image viewer
     'grabc'                 # Colorpicker
     'gimp'                  # GNU Image Manipulation Program
+    'inkscape'			#Vector Manipulation
 
     # PRODUCTIVITY --------------------------------------------------------
 
