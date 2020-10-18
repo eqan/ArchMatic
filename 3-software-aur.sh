@@ -20,6 +20,8 @@ PKGS=(
     # UTILITIES -----------------------------------------------------------
 
     'freeoffice'                # Office Alternative
+    'zoom'
+    'teams'
     
     # MEDIA ---------------------------------------------------------------
 
@@ -29,7 +31,24 @@ PKGS=(
 
     'brave-nightly-bin'         # Brave
     
-
+    # Widgets
+    
+    'meteo-qt'#Weather Widget
+    
+    #Neo Mutt [Mail Client]
+    
+    'mutt-wizard-git'
+    'isync'
+    'msmtp'
+    'pass'
+    'neomutt'
+    
+    #Rofi Menus
+    'rofi'
+    'rofi-calc'
+    'rofi-wifi-menu-git'
+		# Not included Rofi battery, rofi power
+     'rofimoji'
     # THEMES --------------------------------------------------------------
 
     'lightdm-webkit-theme-aether'   # Lightdm Login Theme - https://github.com/NoiSek/Aether#installation
