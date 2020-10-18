@@ -1,4 +1,4 @@
-# Titus ArchMatic Installer Script
+# Eqan Ahmads Arch Matic
 
 <img src="https://i.imgur.com/Yn29sze.png" />
 
