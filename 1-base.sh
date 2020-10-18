@@ -26,6 +26,7 @@ PKGS=(
         'xfce4-power-manager'   # Power Manager 
         'rofi'                  # Menu System
         'picom'                 # Translucent Windows
+	'parcellite'		# Parcellite as default clipboard
         'xclip'                 # System Clipboard
         'gnome-polkit'          # Elevate Applications
         'lxappearance'          # Set System Themes
