@@ -28,12 +28,11 @@ PKGS=(
     'htop'                  # Process viewer
     'neofetch'              # Shows system info when you launch terminal
     'ntp'                   # Network Time Protocol to set time via network.
-    'numlockx'              # Turns on numlock in X11
     'openssh'               # SSH connectivity tools
     'p7zip'                 # 7z compression program
     'rsync'                 # Remote file sync utility
-    'speedtest-cli'         # Internet speed via terminal
     'terminus-font'         # Font package with some bigger fonts for login terminal
+    'powertop'	    	    # Utilizes Programs for Better power management 
     'tlp'                   # Advanced laptop power management
     'unrar'                 # RAR compression program
     'unzip'                 # Zip compression program
@@ -56,10 +55,8 @@ PKGS=(
     'gparted'               # Disk utility
     'gvfs-mtp'              # Read MTP Connected Systems
     'gvfs-smb'              # More File System Stuff
-    'nautilus-share'        # File Sharing in Nautilus
     'ntfs-3g'               # Open source implementation of NTFS file system
     'parted'                # Disk utility
-    'samba'                 # Samba File Sharing
     'smartmontools'         # Disk Monitoring
     'smbclient'             # SMB Connection 
     'xfsprogs'              # XFS Support
@@ -69,17 +66,16 @@ PKGS=(
     'flameshot'             # Screenshots
     'freerdp'               # RDP Connections
     'libvncserver'          # VNC Connections
-    'nautilus'              # Filesystem browser
+    'pcmanfm'              # Filesystem browser
     'remmina'               # Remote Connection
     'veracrypt'             # Disc encryption utility
-    'variety'               # Wallpaper changer
 
     # DEVELOPMENT ---------------------------------------------------------
 
-    'gedit'                 # Text editor
+    'neovim-nightly'                 # Text editor
     'clang'                 # C Lang compiler
     'cmake'                 # Cross-platform open-source make system
-    'code'                  # Visual Studio Code
+    'vscodium-bin'                  # Visual Studio Code
     'electron'              # Cross-platform development using Javascript
     'git'                   # Version control system
     'gcc'                   # C/C++ compiler
@@ -92,21 +88,20 @@ PKGS=(
 
     # MEDIA ---------------------------------------------------------------
 
-    'kdenlive'              # Movie Render
-    'obs-studio'            # Record your screen
     'celluloid'             # Video player
     
     # GRAPHICS AND DESIGN -------------------------------------------------
 
-    'gcolor2'               # Colorpicker
+    'grabc'                 # Colorpicker
     'gimp'                  # GNU Image Manipulation Program
-    'ristretto'             # Multi image viewer
 
     # PRODUCTIVITY --------------------------------------------------------
 
     'hunspell'              # Spellcheck libraries
     'hunspell-en'           # English spellcheck library
-    'xpdf'                  # PDF viewer
+    'mupdf'                  #	PDF viewer for latex 
+    'zathura'			# PDF Viewer
+    'zathura-pdf-mupdf'		# Extension for zathura to integerate with mupdf
 
 )
 
