@@ -22,7 +22,7 @@ PKGS=(
     'freeoffice'                # Office Alternative
     'zoom'
     'teams'
-    
+    'texlive-most'
     # MEDIA ---------------------------------------------------------------
 
     'screenkey'                 # Screencast your keypresses
