@@ -11,9 +11,6 @@ echo -e "\nINSTALLING SOFTWARE\n"
 
 PKGS=(
 
-    # SYSTEM --------------------------------------------------------------
-
-    'linux-lts'             # Long term support kernel
 
     # TERMINAL UTILITIES --------------------------------------------------
 
@@ -88,7 +85,7 @@ PKGS=(
 
     # MEDIA ---------------------------------------------------------------
 
-    'celluloid'             # Video player
+    'mpv'             # Video player
     
     # GRAPHICS AND DESIGN -------------------------------------------------
     
